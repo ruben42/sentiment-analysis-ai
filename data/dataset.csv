@@ -2,15 +2,23 @@ text,sentiment
 "Adorei este produto, é excelente!",positive
 "Estou muito satisfeito com a compra.",positive
 "Experiência fantástica, recomendo!",positive
-"Este serviço é simplesmente maravilhoso.",positive
+"Este serviço é maravilhoso.",positive
 "Gostei bastante da qualidade.",positive
 "Foi uma experiência incrível.",positive
-"Produto muito bom e de excelente qualidade.",positive
+"Produto muito bom e resistente.",positive
 "Estou feliz com os resultados.",positive
 "Recomendo a toda a gente.",positive
-"Funcionou perfeitamente, adorei!",positive
-"Foi uma excelente experiência.",positive
+"Funcionou perfeitamente.",positive
+"O atendimento foi excelente.",positive
 "Estou completamente satisfeito.",positive
+"Uma das melhores compras que fiz.",positive
+"A qualidade superou as minhas expectativas.",positive
+"Adorei o atendimento e a simpatia.",positive
+"Foi uma excelente decisão.",positive
+"O produto vale cada cêntimo.",positive
+"Estou impressionado com o resultado.",positive
+"Uma experiência muito agradável.",positive
+"Voltaria a comprar sem dúvida.",positive
 "O produto é horrível.",negative
 "Estou muito desiludido com o serviço.",negative
 "Foi uma experiência péssima.",negative
@@ -23,6 +31,14 @@ text,sentiment
 "Estou arrependido de ter comprado.",negative
 "Este produto não funciona corretamente.",negative
 "Foi uma enorme desilusão.",negative
+"O serviço deixou muito a desejar.",negative
+"Demorou demasiado tempo.",negative
+"Não vale o dinheiro que custa.",negative
+"Estou frustrado com este resultado.",negative
+"A experiência foi muito desagradável.",negative
+"O produto chegou danificado.",negative
+"Perdi o meu tempo com este serviço.",negative
+"Não voltaria a comprar.",negative
 "O produto chegou ontem.",neutral
 "A encomenda está dentro da caixa.",neutral
 "Recebi uma mensagem esta manhã.",neutral
@@ -39,13 +55,7 @@ text,sentiment
 "Recebi o produto que tinha encomendado.",neutral
 "Existem várias opções no catálogo.",neutral
 "A aplicação foi instalada no telemóvel.",neutral
-"Adorei a experiência de utilização.",positive
-"Uma das melhores compras que já fiz.",positive
-"O atendimento foi excelente.",positive
-"Não vale o dinheiro que custa.",negative
-"Estou muito frustrado com este resultado.",negative
-"Demorou demasiado tempo e não resolveu nada.",negative
-"Tem um ecrã de seis polegadas.",neutral
 "O equipamento foi lançado este ano.",neutral
-"É uma experiência absolutamente fantástica.",positive
-"O serviço deixou muito a desejar.",negative
+"Tem um ecrã de seis polegadas.",neutral
+"O produto está disponível em duas cores.",neutral
+"A reunião começou às dez horas.",neutral

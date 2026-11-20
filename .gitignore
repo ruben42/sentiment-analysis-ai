@@ -3,4 +3,12 @@ __pycache__/
 .venv/
 venv/
 .env
+.pytest_cache/
 .DS_Store
+.ipynb_checkpoints/
+
+# Modelos treinados
+models/*.pkl
+
+# Relatórios gerados
+reports/*.json
